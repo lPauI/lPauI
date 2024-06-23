@@ -5,4 +5,4 @@
 - 🌱 I'm currently learning Python.
 - 📫 You can reach me at: lascupg13@gmail.com
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66777e221992aeecaffbab22?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66777e221992aeecaffbab22?variant=dark&roadmaps=python%2Clinux)](https://roadmap.sh)
