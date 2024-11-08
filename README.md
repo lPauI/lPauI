@@ -1,8 +1,14 @@
-## Hi there 👋
+## 👋 Hi there!
 
-- 🔭 I'm 16 years old.
-- ⚡ I'm from Romania.
-- 🌱 I'm currently learning Python.
-- 📫 You can reach me at: lascupg13@gmail.com
+### 🌟 About Me
+- 🔭 I'm 16 years old and passionate about programming.
+- ⚡ Based in Romania, with knowledge in Python and currently learning web development.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66777e221992aeecaffbab22?variant=dark&roadmaps=python%2Clinux)](https://roadmap.sh)
+### 📚 Currently Learning
+- Web technologies, including HTML, CSS, JavaScript, and frameworks like React.
+  
+### 🚀 Fun Facts
+- I love participating in hackathons and collaborating on creative projects.
+  
+### 📫 Contact
+- Feel free to reach out at lascupg13@gmail.com!
