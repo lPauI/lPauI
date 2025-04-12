@@ -1,14 +1,13 @@
 ## 👋 Hi there!
 
 ### 🌟 About Me
-- 🔭 I'm 16 years old and passionate about programming.
-- ⚡ Based in Romania, with knowledge in Python and currently learning web development.
-
-### 📚 Currently Learning
-- Web technologies, including HTML, CSS, JavaScript, and frameworks like React.
+- 🔭 I'm 17 years old.
+- ⚡ Based in Romania, currently doing an internship where I work with Python, Linux (mostly Debian), and SQL, while also learning web development.
   
 ### 🚀 Fun Facts
-- I love participating in hackathons and collaborating on creative projects.
+- I love participating in hackathons.
   
 ### 📫 Contact
 - Feel free to reach out at lascupg13@gmail.com!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/paul-lascu/)
